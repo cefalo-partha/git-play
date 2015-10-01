@@ -1,2 +1,2 @@
-# git-play
+# git-play (Playground)
 Hello world from Presentation!
